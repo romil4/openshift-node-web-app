@@ -1,0 +1,13 @@
+{
+  "name": "container",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Romil Garg <rgarg@ztech.io>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
